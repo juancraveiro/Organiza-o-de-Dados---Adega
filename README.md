@@ -144,7 +144,7 @@ Uma venda somente pode ser concluída se houver quantidade suficiente do produto
 
 ### RN02 — Condição para venda fiada
 
-Uma venda na modalidade fiado somente pode ser realizada quando o cliente estiver cadastrado, ativo e dentro do limite de crédito ou prazo estabelecido.
+Uma venda na modalidade fiado somente pode ser realizada quando o cliente estiver cadastrado, ativo e dentro do limite de crédito ou prazo estabelecido, o prazo limite do pagamento e de até 1 semana, caso não aconteça o pagamento o estábelecimento não fornece mais serviço ou cria um acordo com o cliente. Até o pagamento ser realizado não é cobrado nenhuma taxa ou juros sobre o pagamento podendo ser feito com débito/crédito, dinheiro ou pix.
 
 ### RN03 — Fechamento de caixa
 
@@ -167,6 +167,10 @@ A organização estabelece limites para compras fiadas. Quando o cliente ultrapa
 ### RN07 — Acesso restrito a funções gerenciais
 
 Funções críticas, como alterações manuais de preços, exclusão de registros e liberação de crédito especial, devem ser restritas aos usuários com perfil de gerente.
+
+### RN08 — Controle de estoque 
+
+Feito em conjunto com o sistema interno sobre números de itens e quantidade de produtos, caso esteja em falta, é solicitado em distribuidoras diversas como em atacadão e etc e reposto ao estoque.
 
 ---
 
